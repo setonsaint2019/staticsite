@@ -21,6 +21,5 @@ function onClick(element) {
 // Happens when the page has loaded
 (function() {
   // Insert code you want to execute when the page has loaded
-  var name= prompt("Please enter your name", "");
-  alert("Hello "+ name);
+  
 })();
